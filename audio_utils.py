@@ -1,5 +1,5 @@
 import whisper
-import moviepy.editor as mp
+import moviepy as mp
 
 model = whisper.load_model("base")
 
